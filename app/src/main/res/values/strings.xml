@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiGoogleMpas</string>
+    <string name="mapa">Mapa</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="todo">TODO</string>
+    <string name="ubicaci_n">Ubicación</string>
+    <string name="title_activity_maps1">Map</string>
+</resources>
